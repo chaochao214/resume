@@ -13,7 +13,7 @@
 * 熟悉spring boot 和spring cloud框架, 熟悉微服务
 * IDE：Eclipse/MyEclipse/IDEA
 * 数据库及中间件：MySQL/Redis/RabbitMQ
-* 版本管理、项目管理：Svn/Git/Maven 
+* 版本管理、项目管理：SVN/Git/Maven 
 * 有良好的产品意识，有责任心和团队精神，善于沟通及合作 
 # 工作经历
 2019.04- 2020.05      中软国际有限公司                                         java开发工程师
